@@ -15,14 +15,14 @@
     "name": "Michelson's Interferometer- Refractive Index of Glass Plate",
     "short-name": "michelsons-interferometer-refractive",
     "repo": "https://github.com/virtual-labs/exp-michelsons-interferometer-refractive-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Newton's Rings-Refractive index of liquid",
     "short-name": "newtons-rings-refractive-liquid",
     "repo": "https://github.com/virtual-labs/exp-newtons-rings-refractive-liquid-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -36,14 +36,14 @@
     "name": "Laser beam divergence and spot size",
     "short-name": "laser-beam-divergence",
     "repo": "https://github.com/virtual-labs/exp-laser-beam-divergence-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Newton's Rings-Wavelength of light",
     "short-name": "newtons-rings-wavelength-light",
     "repo": "https://github.com/virtual-labs/exp-newtons-rings-wavelength-light-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
